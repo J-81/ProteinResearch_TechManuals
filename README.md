@@ -11,3 +11,6 @@ A collection of manuals for common processes/methods in the research group.
 1. Predictive Models - Using Sklearn
 1. Evaluating Models
 1. Using the COS-HPC - Using a Slurm managed High Performance Computing Cluster
+1. Modelling Protein Structures - Using Web-based Tools
+1. Protein Docking
+1. A Brief Primer On Molecular Dynamics
